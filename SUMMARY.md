@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Подорож до Стародавнього Єгипту: будуємо піраміду](README.md)
-* [⭐️Домашнє завдання⭐️](domashnye-zavdannya.md)
+* [Viaje al Antiguo Egipto: Construyendo una pirámide](README.md)
+* [⭐️Tarea⭐️](tarea.md)
